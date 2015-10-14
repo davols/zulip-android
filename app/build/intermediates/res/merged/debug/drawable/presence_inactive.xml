@@ -1,0 +1,6 @@
+<!-- This drawable is unused, since it is overridden by a raster asset -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="ring" >
+    <solid android:color="#000000" />
+
+</shape>
+<!-- From: file:/home/morn/Development/zulip-android1/app/src/main/res/drawable/presence_inactive.xml -->
